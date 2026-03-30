@@ -59,45 +59,45 @@ export default function LandingPage() {
       description="Delicious North Indian food in Yamuna Vihar. Serving fresh, authentic, and high-quality meals for your family."
       leftCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png?_wi=1",
           imageAlt: "Butter Chicken",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png?_wi=1",
           imageAlt: "Vegetable Biryani",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png?_wi=1",
           imageAlt: "Tandoori Platter",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png?_wi=1",
           imageAlt: "Creamy Butter Chicken",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png?_wi=1",
           imageAlt: "Aromatic Rice",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png?_wi=2",
           imageAlt: "Assorted Tandoori",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png?_wi=2",
           imageAlt: "Steaming Biryani",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png?_wi=2",
           imageAlt: "Classic Indian Dish",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png?_wi=2",
           imageAlt: "Spicy Biryani",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png?_wi=2",
           imageAlt: "Rich Butter Chicken",
         },
       ]}
@@ -171,7 +171,7 @@ export default function LandingPage() {
           tags: [
             "Decor",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png?_wi=3",
         },
         {
           id: "2",
@@ -179,7 +179,7 @@ export default function LandingPage() {
           tags: [
             "Budget",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png?_wi=3",
         },
         {
           id: "3",
@@ -187,7 +187,7 @@ export default function LandingPage() {
           tags: [
             "Hospitality",
           ],
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png?_wi=3",
         },
       ]}
       title="Why Choose Indian Hut?"
@@ -205,7 +205,7 @@ export default function LandingPage() {
           role: "Food Blogger",
           company: "Local Foodie",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg?_wi=1",
         },
         {
           id: "2",
@@ -237,7 +237,7 @@ export default function LandingPage() {
           role: "Local",
           company: "Delhi Citizen",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg?_wi=2",
         },
       ]}
       kpiItems={[
