@@ -49,18 +49,18 @@ export default function LandingPage() {
       title="Experience Royal Dining at Affordable Prices"
       description="Delicious North Indian food in Yamuna Vihar. Serving fresh, authentic, and high-quality meals for your family."
       leftCarouselItems={[
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png", imageAlt: "Butter Chicken" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png", imageAlt: "Vegetable Biryani" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png", imageAlt: "Tandoori Platter" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png", imageAlt: "Creamy Butter Chicken" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png", imageAlt: "Aromatic Rice" }
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png?_wi=1", imageAlt: "Butter Chicken" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png?_wi=1", imageAlt: "Vegetable Biryani" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png?_wi=1", imageAlt: "Tandoori Platter" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png?_wi=1", imageAlt: "Creamy Butter Chicken" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png?_wi=1", imageAlt: "Aromatic Rice" }
       ]}
       rightCarouselItems={[
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png", imageAlt: "Assorted Tandoori" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png", imageAlt: "Steaming Biryani" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png", imageAlt: "Classic Indian Dish" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png", imageAlt: "Spicy Biryani" },
-        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png", imageAlt: "Rich Butter Chicken" }
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png?_wi=2", imageAlt: "Assorted Tandoori" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/steaming-vegetable-biryani-in-a-traditio-1774865628198-a39308f8.png?_wi=2", imageAlt: "Steaming Biryani" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/professional-high-quality-close-up-of-bu-1774865628702-703c105d.png?_wi=2", imageAlt: "Classic Indian Dish" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png?_wi=2", imageAlt: "Spicy Biryani" },
+        { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png?_wi=2", imageAlt: "Rich Butter Chicken" }
       ]}
       buttons={[
         { text: "Call Now", href: "tel:+919876543210" },
@@ -90,9 +90,9 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={false}
       features={[
-        { id: "1", title: "Royal Ambience", tags: ["Decor"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png" },
-        { id: "2", title: "Affordable Pricing", tags: ["Budget"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png" },
-        { id: "3", title: "Friendly Service", tags: ["Hospitality"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png" }
+        { id: "1", title: "Royal Ambience", tags: ["Decor"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/creamy-rich-butter-chicken-in-a-bowl-ele-1774865628399-6fb78beb.png?_wi=3" },
+        { id: "2", title: "Affordable Pricing", tags: ["Budget"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/fragrant-saffron-infused-biryani-rice-wi-1774865627806-6556d2a5.png?_wi=3" },
+        { id: "3", title: "Friendly Service", tags: ["Hospitality"], imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bf21Tt3wi4S5aiN2hhwyb4nkl1/assorted-tandoori-platter-with-charcoal--1774865629296-414cb0a7.png?_wi=3" }
       ]}
       title="Why Choose Indian Hut?"
       description="Discover the authentic taste of North India with unmatched hospitality."
@@ -105,11 +105,11 @@ export default function LandingPage() {
       useInvertedBackground={false}
       animationType="slide-up"
       testimonials={[
-        { id: "1", name: "Sarah Johnson", role: "Food Blogger", company: "Local Foodie", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg" },
+        { id: "1", name: "Sarah Johnson", role: "Food Blogger", company: "Local Foodie", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg?_wi=1" },
         { id: "2", name: "Michael Chen", role: "Regular", company: "Neighbor", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/girl-is-sitting-table-restaurant-drink-wine-enjoy-scent-roses-flower-waiting-date_496169-221.jpg" },
         { id: "3", name: "Emily Rodriguez", role: "Local Resident", company: "Yamuna Vihar", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/positive-young-friends-having-wine-dinner_23-2148454085.jpg" },
         { id: "4", name: "David Kim", role: "Diner", company: "Frequent Guest", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/group-friends-eating-restaurant_23-2148006611.jpg" },
-        { id: "5", name: "Priya Sharma", role: "Local", company: "Delhi Citizen", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg" }
+        { id: "5", name: "Priya Sharma", role: "Local", company: "Delhi Citizen", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-smiley-woman-with-noodles_23-2149005440.jpg?_wi=2" }
       ]}
       kpiItems={[
         { value: "4.8", label: "Google Rating" },
